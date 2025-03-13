@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199760729845",
+    "project_id": "ejemplologin-f33b0",
+    "storage_bucket": "ejemplologin-f33b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199760729845:android:c0a09dc9e6f05df46dd7bc",
+        "android_client_info": {
+          "package_name": "elias.jorge.practicaautenticacioneliasjorge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3azsxqGmAOF64nbCIsfS7IMDpapMRUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
